@@ -7,6 +7,13 @@ In this regression task we will predict the percentage of marks that a student i
 
 ## Task # 3 - To Explore Unsupervised Machine Learning
 
-From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually
+From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 
 Dataset :https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view?usp=sharing
+
+## Task # 4 - To Explore Decision Tree Algorithm
+
+For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
+
+Dataset :
+https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view?usp=sharing
